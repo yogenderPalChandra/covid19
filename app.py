@@ -1,10 +1,13 @@
+#https://towardsdatascience.com/visualise-covid-19-case-data-using-python-dash-and-plotly-e58feb34f70f
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import plotly.graph_objects as go
 from dash.dependencies import Input, Output
 import pandas as pd
+import os
 
+port = int(os.environ.get("PORT", 5000))
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 baseURL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/"
@@ -132,5 +135,7 @@ def update_plot_cum_metrics(country, state, metrics):
 
 server = app.server
 
-if __name__ == '__main__':
-    app.run_server(debug=True)
+if __name__ == "__main__":
+    app.run_server(debug=False,
+                   host="0.0.0.0",
+                   port=port)
