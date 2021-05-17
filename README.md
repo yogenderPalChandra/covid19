@@ -4,8 +4,8 @@ https://covid19-app-johns-hopkins.herokuapp.com/
 
 ## This is how it looks like:
 
-![Screenshot](covid19/Screenshot from 2021-05-17 10-42-15.png)
+![Screenshot](https://github.com/yogenderPalChandra/yogenderPalChandra/covid19/2021-05-17-10-42-36.png)
 
-![Alt text](https://github.com/yogenderPalChandra/yogenderPalChandra/covid19/Screenshot from 2021-05-17 10-42-15.png?raw=true "Optional Title")
+![Alt text](https://github.com/yogenderPalChandra/yogenderPalChandra/covid19/2021-05-17-10-42-36.png?raw=true "Optional Title")
 
 
