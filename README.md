@@ -4,5 +4,6 @@ https://covid19-app-johns-hopkins.herokuapp.com/
 
 ## This is how it looks like:
 
-![GitHub Logo](/images/logo.png)
+![Screenshot](Screenshot from 2021-05-17 10-42-15.png)
+
 
