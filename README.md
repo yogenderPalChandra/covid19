@@ -4,6 +4,6 @@ https://covid19-app-johns-hopkins.herokuapp.com/
 
 ## This is how it looks like:
 
-![Screenshot](Screenshot from 2021-05-17 10-42-15.png)
+![Screenshot](covid19/Screenshot from 2021-05-17 10-42-15.png)
 
 
