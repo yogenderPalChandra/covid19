@@ -6,7 +6,7 @@ https://covid19-app-johns-hopkins.herokuapp.com/
 
 ![Screenshot](https://github.com/yogenderPalChandra/yogenderPalChandra/covid19/2021-05-17-10-42-36.png)
 
-![Alt text](https://github.com/yogenderPalChandra/yogenderPalChandra/covid19/2021-05-17-10-42-36.png?raw=true "Optional Title")
+![Alt text](https://github.com/yogenderPalChandra/master/yogenderPalChandra/covid19/2021-05-17-10-42-36.png?raw=true "Optional Title")
 
 [![Header](https://github.com/yogenderPalChandra/master/covid19/2021-05-17-10-42-36.png "Header")](https://some-url.dev/)
 
