@@ -5,7 +5,7 @@
 
 
 #### *This is how it looks like:*
-### You can choose country and deaths/recovered/confirmed from the drop down metrics. Its will parse date wise the COVID infection.
+#### You can choose country and deaths/recovered/confirmed from the drop down metrics. Its will parse date wise the COVID infection.
 
 
 ![Screenshot](2021-05-17-10-42-36.png)
