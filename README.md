@@ -8,4 +8,3 @@ web app is available here [Heroku page ] (https://covid19-app-johns-hopkins.hero
 
 ![Screenshot](2021-05-17-10-42-41.png)
 
-
