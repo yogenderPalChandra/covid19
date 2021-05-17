@@ -6,4 +6,6 @@ https://covid19-app-johns-hopkins.herokuapp.com/
 
 ![Screenshot](covid19/Screenshot from 2021-05-17 10-42-15.png)
 
+![Alt text](covid19/Screenshot from 2021-05-17 10-42-15.png?raw=true "Optional Title")
+
 
