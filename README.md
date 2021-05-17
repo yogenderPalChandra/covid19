@@ -11,6 +11,7 @@ What I represented in this work is purely educational/informational. I researche
 #### *This is how it looks like:*
 #### You can choose country and deaths/recovered/confirmed from the drop down metrics. Its will parse date wise the COVID infection.
 
+![](out.gif)
 
 ![Screenshot](2021-05-17-10-42-36.png)
 
