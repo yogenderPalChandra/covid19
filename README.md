@@ -1,4 +1,4 @@
-# covid19
+# covid19 ![](https://img.shields.io/badge/Dpendencies/Pending-informational?style=flat&logo=Pending&logoColor=white&color=2bbc8a)  
 
 #### About:
 COVID 19 dataset fetch from John Hopkins Uni. deployed on heroku using FLASK/DASH. Covid struck the whole world, so I decided to contributed (atleat info wise).
