@@ -13,7 +13,6 @@ What I represented in this work is purely educational/informational. I researche
 
 ![](out.gif)
 
-![Screenshot](2021-05-17-10-42-36.png)
+![Screenshot](2021-05-17-10-42-36.png) ![Screenshot](2021-05-17-10-42-41.png)
 
-![Screenshot](2021-05-17-10-42-41.png)
 
