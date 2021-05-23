@@ -13,7 +13,7 @@ What I represented in this work is purely educational/informational. I researche
 
 ![](out.gif)
 
-####### Heroku for Sharing Public Dash apps for Free - these codes snippets can help:
+###### Heroku for Sharing Public Dash apps for Free - these codes snippets can help:
 
 ```
 
