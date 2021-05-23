@@ -15,7 +15,7 @@ What I represented in this work is purely educational/informational. I researche
 
 ###### Heroku for Sharing Public Dash apps for Free - these codes snippets can help:
 
-* Step 1. Create a new folder for your project:
+###### * Step 1. Create a new folder for your project:
 
 ```
 mkdir covid19
@@ -29,7 +29,7 @@ conda create --name myDashEnvironment
 conda activate myDashEnvironment
 ```
 
-* Step 3. Install dependencies
+###### * Step 3. Install dependencies
 
 ```
 conda install -c conda-forge dash
@@ -37,13 +37,13 @@ conda install -c plotly plotly
 conda install -c anaconda gunicorn
 
 ```
-* Step 4. requirements.txt describes your Python dependencies. You can fill this file in automatically with:
+###### * Step 4. requirements.txt describes your Python dependencies. You can fill this file in automatically with:
 
 ```
 pip freeze > requirements.txt
 ```
 
-* Step 5. Initialize Heroku, add files to Git, and deploy
+###### * Step 5. Initialize Heroku, add files to Git, and deploy
 
 ```
 heroku create myDashApp
@@ -52,7 +52,7 @@ git commit -m 'Initial app'
 git push heroku master # deploy code to heroku
 
 ```
-* Step 6. Update the code and redeploy if fails
+###### * Step 6. Update the code and redeploy if fails
 
 ```
 git status # view the changes
