@@ -14,6 +14,7 @@ What I represented in this work is purely educational/informational. I researche
 ![](out.gif)
 
 `mkdir covid19
+
 cd covid19`
 
 
