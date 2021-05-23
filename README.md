@@ -13,9 +13,8 @@ What I represented in this work is purely educational/informational. I researche
 
 ![](out.gif)
 
-`mkdir covid19
-cd dash_app_example
-`
+`mkdir covid19`
+`cd covid19`
 
 
 *This is how screen shots of the application looks like:*
