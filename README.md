@@ -21,7 +21,7 @@ What I represented in this work is purely educational/informational. I researche
 mkdir covid19
 cd covid19
 ```
-* Step 2. Initialize the folder with git and a conda environment:
+###### * Step 2. Initialize the folder with git and a conda environment:
 
 ```
 git init
